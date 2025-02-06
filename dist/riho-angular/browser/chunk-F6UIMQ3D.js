@@ -1,0 +1,1 @@
+import{qa as o}from"./chunk-2NHNRBE6.js";var i=(()=>{class t{constructor(){this.show=!1}static{this.\u0275fac=function(r){return new(r||t)}}static{this.\u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{i as a};
